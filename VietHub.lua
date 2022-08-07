@@ -55,3 +55,4 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Discord Link";
         Text = "Copied";
 })
+setclipboard("https://discord.gg/EBZNud75ZJ")
